@@ -17,7 +17,7 @@ git clone https://github.com/pruthi-shivin/Grocery-App
 ### 2. Navigate into the project folder
 
 ```bash
-cd grocery-app
+cd Grocery-App
 ```
 
 ### 3. Install dependencies
